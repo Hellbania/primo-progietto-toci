@@ -1,0 +1,11 @@
+body {
+  background: orange;
+  color: white;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+h2 {
+  background: rgba(0,0,0,0.15);
+  padding: 8px;
+}
